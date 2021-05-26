@@ -37,7 +37,7 @@ containerr {
   overflow: hidden;
   width: 50%;
   height:0;
-  transition: .5s ease;
+  transition: 1s ease;
 }
 
 .container:hover .overlay {
@@ -46,6 +46,7 @@ containerr {
 }
 
 .hello {
+  font-family: "Arial";
   color: white;
   font-size: 20px;
   position: absolute;
